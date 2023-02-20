@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010269774338",
+    "project_id": "wisata-cirebon-rekom-app",
+    "storage_bucket": "wisata-cirebon-rekom-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010269774338:android:5853b66e2002331f9bfd1b",
+        "android_client_info": {
+          "package_name": "com.example.wisata_cirebon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010269774338-vsavg5f3sr17do0jd9874a0ppe29hnma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQd0RmWgESGV6qd_OeF5CEXvONKnn_7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010269774338-vsavg5f3sr17do0jd9874a0ppe29hnma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
